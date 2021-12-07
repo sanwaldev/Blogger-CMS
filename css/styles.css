@@ -1,0 +1,9 @@
+.active {
+  background: #000 !important;
+}
+
+.pager li .active_link {
+
+background: #ccc !important;
+
+}
